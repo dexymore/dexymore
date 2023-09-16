@@ -23,7 +23,7 @@
  
  ## Technologies I Use
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/express.svg' width='33'/>  <img src = '[https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/laravel.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dlaravel&psig=AOvVaw1CYs61n0F_843s1A53D37O&ust=1694927801514000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj4g56wroEDFQAAAAAdAAAAABAE)' width='33'/>
+ <img src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dlaravel&psig=AOvVaw1CYs61n0F_843s1A53D37O&ust=1694927801514000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj4g56wroEDFQAAAAAdAAAAABAE' width='33'/>  <img src = 
  
  ## Who am I?
  ```python
