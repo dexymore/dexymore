@@ -57,4 +57,4 @@ class me:
 
 ## Other Stuff
 
-- :octocat: [My Resume](https://drive.google.com/file/d/1IOqaeRHaLacDGrVubAEZP0dVBm6K3pcE/view?usp=sharing)
+- :octocat: [My Resume]([https://drive.google.com/file/d/1IOqaeRHaLacDGrVubAEZP0dVBm6K3pcE/view?usp=sharing](https://drive.google.com/file/d/13iN-QxsqCWurZOJTfQeV0U5DplsQNdmw/view?usp=drive_link)https://drive.google.com/file/d/13iN-QxsqCWurZOJTfQeV0U5DplsQNdmw/view?usp=drive_link)
