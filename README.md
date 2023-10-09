@@ -55,6 +55,13 @@ class me:
 - Breaking into Web Devolpment !!
 - I'm currently working on 🔭 building **web Apps using MERN stacl** and working up on polishing my skills 🌱 in **Competitive Programming**.
 
+## profile views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/dexymore/count.svg?"  />
+</div>
+
+###
+
 ## Other Stuff
 
 - :octocat: [My Resume](https://drive.google.com/file/d/13iN-QxsqCWurZOJTfQeV0U5DplsQNdmw/view?usp=drive_link)
