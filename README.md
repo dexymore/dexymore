@@ -46,7 +46,7 @@ class me:
 		LearnGerman()
 		openRestraunt()
 		FinishMyTenTousandEpsiodeAnime()
-		# Assume 10 more awesome ambitions here  ;)
+	
 
 ```
 
