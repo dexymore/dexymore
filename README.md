@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](<https://img.shields.io/badge/-ahmedsulemiman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ahmed-fathy-5a37a7193](https://www.linkedin.com/in/ahmed-fathy-5a37a7193/)>)](https://www.linkedin.com/in/ahmed-fathy-5a37a7193) [![Gmail Badge](https://img.shields.io/badge/-af773942@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:af773942@gmail.com)](mailto:af773942@gmail.com)
+[![Linkedin Badge](<https://img.shields.io/badge/-ahmedsulemiman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ahmed-fathy-5a37a7193](https://www.linkedin.com/in/ahmed-fathy-5a37a7193/)>)]([https://www.linkedin.com/in/ahmed-fathy-5a37a7193](https://www.linkedin.com/in/ahmed-suleiman-5a37a7193/)) [![Gmail Badge](https://img.shields.io/badge/-af773942@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:af773942@gmail.com)](mailto:af773942@gmail.com)
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -53,7 +53,7 @@ class me:
 ## Current Works
 
 - Breaking into Web Devolpment !!
-- I'm currently working on 🔭 building **web Apps using MERN stacl** and working up on polishing my skills 🌱 in **Competitive Programming**.
+- I'm currently working on 🔭 building **web Apps using MERN stack** and working up on polishing my skills 🌱 in **Competitive Programming**.
 
 ## profile views
 <div align="center">
@@ -64,5 +64,5 @@ class me:
 
 ## Other Stuff
 
-- :octocat: [My Resume](https://drive.google.com/file/d/159GNpi4Ig7icHJ0kA9qHmp6h7JqVwDPU/view?usp=drive_link)
+- :octocat: [My Resume](https://drive.google.com/file/d/1DUHwVTcfaI7JyyXxJz9tWY2fznVqbmB8/view?usp=drive_link)
 
