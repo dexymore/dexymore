@@ -52,20 +52,13 @@ const ahmed = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman,figma" />
 </p>
 
--readme-streak-stats.herokuapp.com/?user=dexymore&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexymore&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
 
 ## 🎯 What I'm Up To
 
-- 🔭 **Currently building:** Full-stack web applications using MERN stack
+- 🔭 **Currently building:** Full-stack web applications using PHP + MYSQL , MERN stack, also Mobile Applications using react native.
 - 🌱 **Learning:** Advanced React patterns and microservices architecture
-- 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
-- 💬 **Ask me about:** React, Node.js, MongoDB, or anything web development related!
-- ⚡ **Fun fact:** I can debug code faster with coffee than without it! ☕
+- 💬 **Ask me about:** React, React native, Node.js, MongoDB, PHP, or anything web development related!
+  
 
 ## 🏆 Achievements & Interests
 
@@ -78,13 +71,13 @@ class AboutMe:
             "🍳 Cooking amazing dishes",
             "🎬 Binge-watching movies & anime", 
             "🐛 Hunting down bugs at 3 AM",
-            "🏗️ Building cool web apps"
+            "🏗️ Building cool web/mobile apps"
         ]
         self.goals = [
-            "🇩🇪 Master German language",
+            "🇩🇪 Master Italian language",
             "🍽️ Open my own restaurant",
             "📺 Finish my 10,000-episode anime backlog",
-            "🚀 Contribute to major open source projects"
+            "🚀 Contribute to major projects"
         ]
     
     def current_mood(self):
