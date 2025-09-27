@@ -39,17 +39,17 @@ const ahmed = {
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,java,c,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,c,html,css,php" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap,tailwind,reactn" />
 </p>
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
 </p>
 
 
