@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm [Ahmed](https://www.facebook.com/ahmfd22) 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software Engineer;Full+Stack+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Engineer;Code+Enthusiast;" alt="Typing SVG" />
 </div>
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right' width="400"/>
@@ -20,13 +20,15 @@
 
 ```javascript
 const ahmed = {
+    title: "Software Engineer",
+    experience: "2+ Years",
     location: "Cairo, Egypt 🇪🇬",
+    specialization: "Software engineering",
     code: ["JavaScript", "Python", "C++", "Java", "PHP"],
     technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "Laravel"],
+        frontEnd: ["React","React native" ,"HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
+        backEnd: ["Node.js","Express", "Laravel"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
     },
     currentFocus: "Building scalable web applications with MERN Stack",
     funFact: "There are 10 types of people: those who understand binary and those who don't! 😄"
@@ -50,14 +52,7 @@ const ahmed = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman,figma" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexymore&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexymore&theme=radical&hide_border=true" alt="GitHub Streak" />
+-readme-streak-stats.herokuapp.com/?user=dexymore&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -78,7 +73,7 @@ const ahmed = {
 class AboutMe:
     def __init__(self):
         self.name = "Ahmed Suleiman"
-        self.location = "Cairo, Egypt"
+        self.location = "Cairo, Egypt/ Milan, Italy /Pisa, Italy"
         self.interests = [
             "🍳 Cooking amazing dishes",
             "🎬 Binge-watching movies & anime", 
@@ -96,15 +91,13 @@ class AboutMe:
         return "Ready to code something awesome! 💻✨"
 ```
 
-## 📈 Profile Views
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dexymore&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</div>
 
-## 🎵 Currently Vibing To
+## 🎵 My Coding Playlist
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=1" alt="Spotify" />
+  <a href="https://open.spotify.com/playlist/4oiA7sjPbqzg9DgrWGPvhH">
+    <img src="https://img.shields.io/badge/-Check_out_my_coding_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </div>
 
 ## 📫 Let's Connect!
