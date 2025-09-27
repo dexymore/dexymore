@@ -1,69 +1,132 @@
-## Hey, [ahmmmmed here!](https://www.facebook.com/ahmfd22) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# Hey there! 👋 I'm [Ahmed](https://www.facebook.com/ahmfd22) 
 
-<h1>Welcome to my humble profile in the Digital World.. <span style="color: #FFB6C1;">I AM A MERN STACK DEVELOPER</span></h1>
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-ahmedsuleiman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-suleiman-5a37a7193/)](https://www.linkedin.com/in/ahmed-suleiman-5a37a7193/)
- [![Gmail Badge](https://img.shields.io/badge/-af773942@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:af773942@gmail.com)](mailto:af773942@gmail.com)
-
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-
-## :computer: Technologies I Love
-
-- Frontend and Backend Web Development
-- Machine Learning
-- Data Science
-
-## Programming Languages
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
-<img src = './Tailwind New 2021.svg' width='60'/>
-
-## Technologies I Use
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
-<img src = './Laravel.svg' width='60'/> <img src = './mongodb-logo-vector-2022.svg' width='60'/>
-
-## Who am I?
-
-```python
-class me:
-	user = 'ahmed suleiman'
-		current_work = 'Writing code'
-		hobbies = [
-				'Cooking',
-				'Watching movies',
-				'watching anime'
-				'Being up all Night chasing that ONE BUG...'
-			]
-
-	def getCity():
-		return cairo_egypt()
-
-	def Ambitions():
-		LearnGerman()
-		openRestraunt()
-		FinishMyTenTousandEpsiodeAnime()
-	
-
-```
-
-## Current Works
-
-- Breaking into Web Devolpment !!
-- I'm currently working on 🔭 building **web Apps using MERN stack** and working up on polishing my skills 🌱 in **Competitive Programming**.
-
-## profile views
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dexymore/count.svg?"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software Engineer;Full+Stack+Engineer;" alt="Typing SVG" />
 </div>
 
-###
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right' width="400"/>
 
-## Other Stuff
+<div align="left">
+  
+[![Linkedin](https://img.shields.io/badge/-Ahmed_Suleiman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-suleiman-5a37a7193/)
+[![Gmail](https://img.shields.io/badge/-af773942@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:af773942@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Ahmed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmfd22)
 
-- :octocat: [My Resume](https://drive.google.com/file/d/13jALxttrg9_NY4u7wUOWSwZNbAiIjt5C/view?usp=sharing)
+</div>
 
+<br clear="right"/>
+
+## 🚀 About Me
+
+```javascript
+const ahmed = {
+    location: "Cairo, Egypt 🇪🇬",
+    code: ["JavaScript", "Python", "C++", "Java", "PHP"],
+    technologies: {
+        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express", "Laravel"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building scalable web applications with MERN Stack",
+    funFact: "There are 10 types of people: those who understand binary and those who don't! 😄"
+};
+```
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,java,c,html,css,php" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap,tailwind" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman,figma" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dexymore&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexymore&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexymore&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🎯 What I'm Up To
+
+- 🔭 **Currently building:** Full-stack web applications using MERN stack
+- 🌱 **Learning:** Advanced React patterns and microservices architecture
+- 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
+- 💬 **Ask me about:** React, Node.js, MongoDB, or anything web development related!
+- ⚡ **Fun fact:** I can debug code faster with coffee than without it! ☕
+
+## 🏆 Achievements & Interests
+
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Ahmed Suleiman"
+        self.location = "Cairo, Egypt"
+        self.interests = [
+            "🍳 Cooking amazing dishes",
+            "🎬 Binge-watching movies & anime", 
+            "🐛 Hunting down bugs at 3 AM",
+            "🏗️ Building cool web apps"
+        ]
+        self.goals = [
+            "🇩🇪 Master German language",
+            "🍽️ Open my own restaurant",
+            "📺 Finish my 10,000-episode anime backlog",
+            "🚀 Contribute to major open source projects"
+        ]
+    
+    def current_mood(self):
+        return "Ready to code something awesome! 💻✨"
+```
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dexymore&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</div>
+
+## 🎵 Currently Vibing To
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=1" alt="Spotify" />
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-suleiman-5a37a7193/">
+    <img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:af773942@gmail.com">
+    <img src="https://img.shields.io/badge/-Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+## 📄 My Resume
+<div align="center">
+  <a href="https://drive.google.com/file/d/13jALxttrg9_NY4u7wUOWSwZNbAiIjt5C/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Download_My_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!+🚀" />
+</div>
