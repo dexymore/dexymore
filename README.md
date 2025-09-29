@@ -74,7 +74,7 @@ class AboutMe:
             "🏗️ Building cool web/mobile apps"
         ]
         self.goals = [
-            "🇩🇪 Master Italian language",
+           
             "🍽️ Open my own restaurant",
             "📺 Finish my 10,000-episode anime backlog",
             "🚀 Contribute to major projects"
